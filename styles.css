@@ -1,0 +1,168 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Leckerli One', cursive;
+
+}
+
+p {
+  margin-top: 2px;
+  padding-bottom: 20px;
+font-family: 'Sriracha', cursive;
+}
+
+h1 {
+  width: 30%;
+  margin: auto;
+  font-family: 'Permanent Marker', cursive;
+    color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Permanent Marker', cursive;
+  color:#66BFBF;
+}
+
+h3 {
+  font-family: 'Permanent Marker', cursive;
+  color:#11999E;
+}
+
+.top-container {
+  background-color:#EAF6F6;
+  position: relative;
+  padding-top: 100px;
+  line-height: 2;
+  width: 105%;
+  min-width: 480px;
+  min-height:100px;
+  max-width:1920px;
+margin-left: -8px;
+overflow: hidden;
+}
+
+
+.mountie {
+  position: relative;
+}
+
+.cloud-2 {
+  position: absolute;
+  left: 200px;
+  bottom: 400px;
+}
+
+.cloud-1 {
+  position: absolute;
+  right:100px;
+  top: 50px;
+}
+
+.cloud-2 {
+  position: absolute;
+  left: 100px;
+  bottom: 400px;
+}
+.profile{
+  font-size:28px;
+  width: 105%;
+  min-width: 480px;
+  max-width:1920px;
+margin-left: -8px;
+overflow: hidden;
+}
+.skills{
+  font-size:20px;
+  background-color: #cbf1f5;
+  width: 105%;
+  min-width: 480px;
+  max-width:1920px;
+margin-left: -8px;
+overflow: hidden;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  line-height: 2;
+
+}
+.web-dev{
+  float: left;
+  margin-right:20px;
+  width: 40%;
+}
+.app-dev{
+  float: right;
+  margin-left:20px;
+  width: 40%;
+}
+.profile{
+  background-color:#add2c9;
+}
+hr{
+  border: dotted #bcbab8 10px;
+  border-top:none;
+  width: 10%;
+}
+.middle-container{
+  background-color:#ff7657;
+  min-width:580px;
+  width: 105%;
+  max-width:1920px;
+margin-left: -8px;
+overflow: hidden;
+}
+.bottom-container{
+  margin: 50px auto 50px auto;
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  margin-bottom: 0px;
+  width: 105%;
+  min-width: 480px;
+  max-width:1920px;
+margin-left: -8px;
+overflow: hidden;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #66BFBF;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #0065a3;
+  text-decoration: none;
+}
+
+.intro{
+  font-size: 32px;
+}
+.cloud-3 {
+  position: absolute;
+  left: 1400px;
+  bottom: 500px;
+}
+.cloud-4 {
+  position: absolute;
+  left: 100px;
+  bottom: 700px;
+}
+.contact-me{
+  width: 105%;
+  min-width: 480px;
+  max-width:1920px;
+margin-left: -8px;
+overflow: hidden;
+}
+.webp{
+  font-size: 30px;
+}
+.appp{
+  font-size: 30px;
+}
